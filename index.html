@@ -2110,18 +2110,18 @@
 
     function populateSubjectSelector() {
         const selector = document.getElementById('subjectSelector');
-        // 설문지 순서대로 정렬
+        // 설문지 순서대로 정렬 (JSON 키와 일치)
         const subjectOrder = [
-            '중등 국어과',
-            '초등(전과목 및 교과 전담)',
-            '중등 교양과',
-            '중등 외국어과/한문과',
+            '국어',
+            '초등(전과목)',
+            '교양',
+            '외국어/한문',
             '기타',
-            '중등 음악과/미술과/예술계열 선택과목/체육과/체육계열 선택과목',
-            '중등 사회과/역사과/도덕과',
-            '중등 기술·가정/정보과',
-            '중등 수학과/과학과/과학계열 선택과목',
-            '중등 전문교과'
+            '예체능',
+            '사회/역사/도덕',
+            '기술·가정/정보',
+            '수학/과학',
+            '전문교과'
         ];
         const subjects = subjectOrder.filter(s => subjectFullData[s]);
         selector.innerHTML = '<option value="">-- 교과/과목을 선택하세요 --</option>' +
