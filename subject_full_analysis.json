@@ -1,0 +1,6041 @@
+{
+  "중등 국어과": {
+    "group_name": "중등 국어과",
+    "n": 1124,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.464,
+        "performance": 4.05,
+        "gap": 0.415
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.578,
+        "performance": 3.98,
+        "gap": 0.599
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.426,
+        "performance": 3.811,
+        "gap": 0.615
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.52,
+        "performance": 3.946,
+        "gap": 0.575
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.417,
+        "performance": 4.002,
+        "gap": 0.415
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.582,
+        "performance": 4.294,
+        "gap": 0.288
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.487,
+        "performance": 4.023,
+        "gap": 0.464
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.488,
+        "performance": 4.163,
+        "gap": 0.326
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.054,
+        "performance": 3.388,
+        "gap": 0.666
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.309,
+        "performance": 3.519,
+        "gap": 0.79
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.161,
+        "performance": 3.48,
+        "gap": 0.681
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.491,
+        "performance": 3.974,
+        "gap": 0.517
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.52,
+        "performance": 4.077,
+        "gap": 0.442
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.594,
+        "performance": 4.021,
+        "gap": 0.573
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.635,
+        "performance": 4.017,
+        "gap": 0.618
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.294,
+        "performance": 3.68,
+        "gap": 0.615
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.581,
+        "performance": 3.874,
+        "gap": 0.707
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.396,
+        "performance": 3.794,
+        "gap": 0.601
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.45,
+        "performance": 3.754,
+        "gap": 0.696
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.329,
+        "performance": 3.794,
+        "gap": 0.536
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.267,
+        "performance": 3.843,
+        "gap": 0.423
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 3.998,
+        "performance": 3.69,
+        "gap": 0.308
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.303,
+        "performance": 3.896,
+        "gap": 0.407
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.339,
+        "performance": 3.962,
+        "gap": 0.377
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.384,
+        "performance": 3.978,
+        "gap": 0.407
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.336,
+        "performance": 3.875,
+        "gap": 0.461
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.289,
+        "performance": 3.921,
+        "gap": 0.368
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.223,
+        "performance": 3.827,
+        "gap": 0.396
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.247,
+        "performance": 3.56,
+        "gap": 0.687
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.244,
+        "performance": 3.605,
+        "gap": 0.639
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.24,
+        "performance": 3.609,
+        "gap": 0.631
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.144,
+        "performance": 3.547,
+        "gap": 0.597
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.191,
+        "performance": 3.603,
+        "gap": 0.588
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.332,
+        "performance": 3.8,
+        "gap": 0.532
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.271,
+        "performance": 3.36,
+        "gap": 0.911
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.343,
+        "performance": 3.532,
+        "gap": 0.81
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.764,
+        "performance": 3.48,
+        "gap": 0.285
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.244,
+        "performance": 3.445,
+        "gap": 0.799
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.145,
+        "performance": 3.175,
+        "gap": 0.97
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.095,
+        "performance": 3.386,
+        "gap": 0.709
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.061,
+        "performance": 3.378,
+        "gap": 0.683
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.043,
+        "performance": 3.373,
+        "gap": 0.67
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.036,
+        "performance": 3.216,
+        "gap": 0.819
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.965,
+        "performance": 3.205,
+        "gap": 0.761
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 3.986,
+        "performance": 3.215,
+        "gap": 0.77
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.883,
+        "performance": 3.162,
+        "gap": 0.721
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.107,
+        "performance": 3.276,
+        "gap": 0.831
+      }
+    ],
+    "importance_mean": 4.282,
+    "performance_mean": 3.693,
+    "gap_mean": 0.589,
+    "top_importance": [
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.635,
+        "performance": 4.017,
+        "gap": 0.618
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.594,
+        "performance": 4.021,
+        "gap": 0.573
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.582,
+        "performance": 4.294,
+        "gap": 0.288
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.581,
+        "performance": 3.874,
+        "gap": 0.707
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.578,
+        "performance": 3.98,
+        "gap": 0.599
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.52,
+        "performance": 3.946,
+        "gap": 0.575
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.52,
+        "performance": 4.077,
+        "gap": 0.442
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.491,
+        "performance": 3.974,
+        "gap": 0.517
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.488,
+        "performance": 4.163,
+        "gap": 0.326
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.487,
+        "performance": 4.023,
+        "gap": 0.464
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.145,
+        "performance": 3.175,
+        "gap": 0.97
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.271,
+        "performance": 3.36,
+        "gap": 0.911
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.107,
+        "performance": 3.276,
+        "gap": 0.831
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.036,
+        "performance": 3.216,
+        "gap": 0.819
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.343,
+        "performance": 3.532,
+        "gap": 0.81
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.244,
+        "performance": 3.445,
+        "gap": 0.799
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.309,
+        "performance": 3.519,
+        "gap": 0.79
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 3.986,
+        "performance": 3.215,
+        "gap": 0.77
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.965,
+        "performance": 3.205,
+        "gap": 0.761
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.883,
+        "performance": 3.162,
+        "gap": 0.721
+      }
+    ]
+  },
+  "초등(전과목 및 교과 전담)": {
+    "group_name": "초등(전과목 및 교과 전담)",
+    "n": 1956,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.614,
+        "performance": 4.272,
+        "gap": 0.342
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.661,
+        "performance": 4.23,
+        "gap": 0.43
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.505,
+        "performance": 4.04,
+        "gap": 0.465
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.602,
+        "performance": 4.157,
+        "gap": 0.445
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.525,
+        "performance": 4.189,
+        "gap": 0.336
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.67,
+        "performance": 4.449,
+        "gap": 0.221
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.592,
+        "performance": 4.228,
+        "gap": 0.364
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.408,
+        "performance": 4.243,
+        "gap": 0.165
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 3.817,
+        "performance": 3.49,
+        "gap": 0.328
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.25,
+        "performance": 3.695,
+        "gap": 0.555
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.008,
+        "performance": 3.585,
+        "gap": 0.423
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.495,
+        "performance": 4.052,
+        "gap": 0.443
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.583,
+        "performance": 4.211,
+        "gap": 0.372
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.608,
+        "performance": 4.145,
+        "gap": 0.464
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.632,
+        "performance": 4.241,
+        "gap": 0.391
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.355,
+        "performance": 3.907,
+        "gap": 0.448
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.618,
+        "performance": 4.113,
+        "gap": 0.505
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.425,
+        "performance": 3.983,
+        "gap": 0.442
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.39,
+        "performance": 3.926,
+        "gap": 0.463
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.427,
+        "performance": 4.061,
+        "gap": 0.366
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.349,
+        "performance": 4.09,
+        "gap": 0.259
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.1,
+        "performance": 3.93,
+        "gap": 0.17
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.38,
+        "performance": 4.121,
+        "gap": 0.259
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.362,
+        "performance": 4.134,
+        "gap": 0.229
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.373,
+        "performance": 4.122,
+        "gap": 0.251
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.356,
+        "performance": 4.098,
+        "gap": 0.258
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.11,
+        "performance": 3.915,
+        "gap": 0.195
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.249,
+        "performance": 3.989,
+        "gap": 0.26
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.305,
+        "performance": 3.861,
+        "gap": 0.444
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.315,
+        "performance": 3.897,
+        "gap": 0.419
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.274,
+        "performance": 3.834,
+        "gap": 0.439
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.192,
+        "performance": 3.804,
+        "gap": 0.388
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.245,
+        "performance": 3.883,
+        "gap": 0.362
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.338,
+        "performance": 4.084,
+        "gap": 0.254
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.437,
+        "performance": 4.001,
+        "gap": 0.437
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.51,
+        "performance": 4.129,
+        "gap": 0.381
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.969,
+        "performance": 3.807,
+        "gap": 0.162
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.235,
+        "performance": 3.625,
+        "gap": 0.61
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.307,
+        "performance": 3.419,
+        "gap": 0.888
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.061,
+        "performance": 3.589,
+        "gap": 0.472
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.038,
+        "performance": 3.584,
+        "gap": 0.454
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.032,
+        "performance": 3.593,
+        "gap": 0.439
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 3.925,
+        "performance": 3.408,
+        "gap": 0.517
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.875,
+        "performance": 3.387,
+        "gap": 0.488
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 3.896,
+        "performance": 3.399,
+        "gap": 0.497
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.832,
+        "performance": 3.358,
+        "gap": 0.474
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.075,
+        "performance": 3.546,
+        "gap": 0.529
+      }
+    ],
+    "importance_mean": 4.305,
+    "performance_mean": 3.911,
+    "gap_mean": 0.394,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.67,
+        "performance": 4.449,
+        "gap": 0.221
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.661,
+        "performance": 4.23,
+        "gap": 0.43
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.632,
+        "performance": 4.241,
+        "gap": 0.391
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.618,
+        "performance": 4.113,
+        "gap": 0.505
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.614,
+        "performance": 4.272,
+        "gap": 0.342
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.608,
+        "performance": 4.145,
+        "gap": 0.464
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.602,
+        "performance": 4.157,
+        "gap": 0.445
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.592,
+        "performance": 4.228,
+        "gap": 0.364
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.583,
+        "performance": 4.211,
+        "gap": 0.372
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.525,
+        "performance": 4.189,
+        "gap": 0.336
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.307,
+        "performance": 3.419,
+        "gap": 0.888
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.235,
+        "performance": 3.625,
+        "gap": 0.61
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.25,
+        "performance": 3.695,
+        "gap": 0.555
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.075,
+        "performance": 3.546,
+        "gap": 0.529
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 3.925,
+        "performance": 3.408,
+        "gap": 0.517
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.618,
+        "performance": 4.113,
+        "gap": 0.505
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 3.896,
+        "performance": 3.399,
+        "gap": 0.497
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.875,
+        "performance": 3.387,
+        "gap": 0.488
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.832,
+        "performance": 3.358,
+        "gap": 0.474
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.061,
+        "performance": 3.589,
+        "gap": 0.472
+      }
+    ]
+  },
+  "중등 교양과": {
+    "group_name": "중등 교양과",
+    "n": 138,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.623,
+        "performance": 4.188,
+        "gap": 0.435
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.674,
+        "performance": 4.225,
+        "gap": 0.449
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.5,
+        "performance": 4.036,
+        "gap": 0.464
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.638,
+        "performance": 4.239,
+        "gap": 0.399
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.529,
+        "performance": 4.268,
+        "gap": 0.261
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.674,
+        "performance": 4.58,
+        "gap": 0.094
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.659,
+        "performance": 4.283,
+        "gap": 0.377
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.645,
+        "performance": 4.268,
+        "gap": 0.377
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.21,
+        "performance": 3.377,
+        "gap": 0.833
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.478,
+        "performance": 3.442,
+        "gap": 1.036
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.275,
+        "performance": 3.449,
+        "gap": 0.826
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.536,
+        "performance": 4.123,
+        "gap": 0.413
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.587,
+        "performance": 4.406,
+        "gap": 0.181
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.725,
+        "performance": 4.159,
+        "gap": 0.565
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.754,
+        "performance": 4.087,
+        "gap": 0.667
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.116,
+        "performance": 3.529,
+        "gap": 0.587
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.659,
+        "performance": 4.058,
+        "gap": 0.601
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.377,
+        "performance": 4.022,
+        "gap": 0.355
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.58,
+        "performance": 3.855,
+        "gap": 0.725
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.413,
+        "performance": 3.855,
+        "gap": 0.558
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.471,
+        "performance": 3.964,
+        "gap": 0.507
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.159,
+        "performance": 3.79,
+        "gap": 0.37
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.5,
+        "performance": 4.094,
+        "gap": 0.406
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.514,
+        "performance": 4.152,
+        "gap": 0.362
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.587,
+        "performance": 4.145,
+        "gap": 0.442
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.522,
+        "performance": 4.109,
+        "gap": 0.413
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.493,
+        "performance": 3.993,
+        "gap": 0.5
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.362,
+        "performance": 3.841,
+        "gap": 0.522
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.464,
+        "performance": 3.435,
+        "gap": 1.029
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.522,
+        "performance": 3.609,
+        "gap": 0.913
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.478,
+        "performance": 3.58,
+        "gap": 0.899
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.384,
+        "performance": 3.536,
+        "gap": 0.848
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.457,
+        "performance": 3.572,
+        "gap": 0.884
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.5,
+        "performance": 3.493,
+        "gap": 1.007
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.355,
+        "performance": 3.167,
+        "gap": 1.188
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.594,
+        "performance": 3.486,
+        "gap": 1.109
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.638,
+        "performance": 3.464,
+        "gap": 0.174
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.174,
+        "performance": 3.406,
+        "gap": 0.768
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.297,
+        "performance": 3.341,
+        "gap": 0.957
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.217,
+        "performance": 3.457,
+        "gap": 0.761
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.188,
+        "performance": 3.399,
+        "gap": 0.79
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.268,
+        "performance": 3.406,
+        "gap": 0.862
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.319,
+        "performance": 3.348,
+        "gap": 0.971
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.239,
+        "performance": 3.239,
+        "gap": 1.0
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.246,
+        "performance": 3.232,
+        "gap": 1.014
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.101,
+        "performance": 3.203,
+        "gap": 0.899
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.493,
+        "performance": 3.399,
+        "gap": 1.094
+      }
+    ],
+    "importance_mean": 4.43,
+    "performance_mean": 3.773,
+    "gap_mean": 0.657,
+    "top_importance": [
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.754,
+        "performance": 4.087,
+        "gap": 0.667
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.725,
+        "performance": 4.159,
+        "gap": 0.565
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.674,
+        "performance": 4.225,
+        "gap": 0.449
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.674,
+        "performance": 4.58,
+        "gap": 0.094
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.659,
+        "performance": 4.283,
+        "gap": 0.377
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.659,
+        "performance": 4.058,
+        "gap": 0.601
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.645,
+        "performance": 4.268,
+        "gap": 0.377
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.638,
+        "performance": 4.239,
+        "gap": 0.399
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.623,
+        "performance": 4.188,
+        "gap": 0.435
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.594,
+        "performance": 3.486,
+        "gap": 1.109
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.355,
+        "performance": 3.167,
+        "gap": 1.188
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.594,
+        "performance": 3.486,
+        "gap": 1.109
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.493,
+        "performance": 3.399,
+        "gap": 1.094
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.478,
+        "performance": 3.442,
+        "gap": 1.036
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.464,
+        "performance": 3.435,
+        "gap": 1.029
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.246,
+        "performance": 3.232,
+        "gap": 1.014
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.5,
+        "performance": 3.493,
+        "gap": 1.007
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.239,
+        "performance": 3.239,
+        "gap": 1.0
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.319,
+        "performance": 3.348,
+        "gap": 0.971
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.297,
+        "performance": 3.341,
+        "gap": 0.957
+      }
+    ]
+  },
+  "중등 외국어과/한문과": {
+    "group_name": "중등 외국어과/한문과",
+    "n": 251,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.506,
+        "performance": 4.215,
+        "gap": 0.291
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.578,
+        "performance": 4.163,
+        "gap": 0.414
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.438,
+        "performance": 4.04,
+        "gap": 0.398
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.514,
+        "performance": 4.171,
+        "gap": 0.343
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.482,
+        "performance": 4.203,
+        "gap": 0.279
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.606,
+        "performance": 4.394,
+        "gap": 0.211
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.526,
+        "performance": 4.223,
+        "gap": 0.303
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.371,
+        "performance": 4.259,
+        "gap": 0.112
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.255,
+        "performance": 3.833,
+        "gap": 0.422
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.315,
+        "performance": 3.853,
+        "gap": 0.462
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.231,
+        "performance": 3.777,
+        "gap": 0.454
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.586,
+        "performance": 4.223,
+        "gap": 0.363
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.55,
+        "performance": 4.307,
+        "gap": 0.243
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.598,
+        "performance": 4.275,
+        "gap": 0.323
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.534,
+        "performance": 4.179,
+        "gap": 0.355
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.398,
+        "performance": 3.932,
+        "gap": 0.466
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.637,
+        "performance": 4.143,
+        "gap": 0.494
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.498,
+        "performance": 4.088,
+        "gap": 0.41
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.386,
+        "performance": 4.0,
+        "gap": 0.386
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.331,
+        "performance": 3.952,
+        "gap": 0.378
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.291,
+        "performance": 3.98,
+        "gap": 0.311
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.151,
+        "performance": 3.88,
+        "gap": 0.271
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.347,
+        "performance": 4.04,
+        "gap": 0.307
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.311,
+        "performance": 4.052,
+        "gap": 0.259
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.351,
+        "performance": 4.06,
+        "gap": 0.291
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.299,
+        "performance": 3.96,
+        "gap": 0.339
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.239,
+        "performance": 3.964,
+        "gap": 0.275
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.243,
+        "performance": 3.964,
+        "gap": 0.279
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.191,
+        "performance": 3.689,
+        "gap": 0.502
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.207,
+        "performance": 3.733,
+        "gap": 0.474
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.183,
+        "performance": 3.729,
+        "gap": 0.454
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.167,
+        "performance": 3.733,
+        "gap": 0.434
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.175,
+        "performance": 3.769,
+        "gap": 0.406
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.167,
+        "performance": 3.88,
+        "gap": 0.287
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.255,
+        "performance": 3.737,
+        "gap": 0.518
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.315,
+        "performance": 3.781,
+        "gap": 0.534
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.721,
+        "performance": 3.554,
+        "gap": 0.167
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.155,
+        "performance": 3.757,
+        "gap": 0.398
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.024,
+        "performance": 3.546,
+        "gap": 0.478
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.187,
+        "performance": 3.737,
+        "gap": 0.45
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.163,
+        "performance": 3.689,
+        "gap": 0.474
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.199,
+        "performance": 3.689,
+        "gap": 0.51
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.131,
+        "performance": 3.57,
+        "gap": 0.562
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.092,
+        "performance": 3.53,
+        "gap": 0.562
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.12,
+        "performance": 3.586,
+        "gap": 0.534
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.04,
+        "performance": 3.502,
+        "gap": 0.538
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.155,
+        "performance": 3.622,
+        "gap": 0.534
+      }
+    ],
+    "importance_mean": 4.303,
+    "performance_mean": 3.914,
+    "gap_mean": 0.388,
+    "top_importance": [
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.637,
+        "performance": 4.143,
+        "gap": 0.494
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.606,
+        "performance": 4.394,
+        "gap": 0.211
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.598,
+        "performance": 4.275,
+        "gap": 0.323
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.586,
+        "performance": 4.223,
+        "gap": 0.363
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.578,
+        "performance": 4.163,
+        "gap": 0.414
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.55,
+        "performance": 4.307,
+        "gap": 0.243
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.534,
+        "performance": 4.179,
+        "gap": 0.355
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.526,
+        "performance": 4.223,
+        "gap": 0.303
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.514,
+        "performance": 4.171,
+        "gap": 0.343
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.506,
+        "performance": 4.215,
+        "gap": 0.291
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.131,
+        "performance": 3.57,
+        "gap": 0.562
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.092,
+        "performance": 3.53,
+        "gap": 0.562
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.04,
+        "performance": 3.502,
+        "gap": 0.538
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.315,
+        "performance": 3.781,
+        "gap": 0.534
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.12,
+        "performance": 3.586,
+        "gap": 0.534
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.155,
+        "performance": 3.622,
+        "gap": 0.534
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.255,
+        "performance": 3.737,
+        "gap": 0.518
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.199,
+        "performance": 3.689,
+        "gap": 0.51
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.191,
+        "performance": 3.689,
+        "gap": 0.502
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.637,
+        "performance": 4.143,
+        "gap": 0.494
+      }
+    ]
+  },
+  "기타": {
+    "group_name": "기타",
+    "n": 814,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.646,
+        "performance": 4.138,
+        "gap": 0.509
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.709,
+        "performance": 4.122,
+        "gap": 0.587
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.396,
+        "performance": 3.872,
+        "gap": 0.523
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.548,
+        "performance": 4.125,
+        "gap": 0.423
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.505,
+        "performance": 4.187,
+        "gap": 0.318
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.678,
+        "performance": 4.531,
+        "gap": 0.147
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.633,
+        "performance": 4.221,
+        "gap": 0.412
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.6,
+        "performance": 4.263,
+        "gap": 0.337
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 3.839,
+        "performance": 2.952,
+        "gap": 0.887
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.357,
+        "performance": 3.327,
+        "gap": 1.031
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.044,
+        "performance": 3.124,
+        "gap": 0.92
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.507,
+        "performance": 3.989,
+        "gap": 0.518
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.587,
+        "performance": 4.306,
+        "gap": 0.281
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.66,
+        "performance": 4.095,
+        "gap": 0.565
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.646,
+        "performance": 3.955,
+        "gap": 0.692
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.075,
+        "performance": 3.392,
+        "gap": 0.683
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.49,
+        "performance": 3.773,
+        "gap": 0.717
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.177,
+        "performance": 3.768,
+        "gap": 0.409
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.396,
+        "performance": 3.59,
+        "gap": 0.806
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.33,
+        "performance": 3.724,
+        "gap": 0.607
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.373,
+        "performance": 3.865,
+        "gap": 0.509
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.084,
+        "performance": 3.614,
+        "gap": 0.469
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.375,
+        "performance": 3.83,
+        "gap": 0.544
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.4,
+        "performance": 3.883,
+        "gap": 0.517
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.399,
+        "performance": 3.851,
+        "gap": 0.548
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.412,
+        "performance": 3.849,
+        "gap": 0.563
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.215,
+        "performance": 3.644,
+        "gap": 0.571
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.24,
+        "performance": 3.674,
+        "gap": 0.565
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.377,
+        "performance": 3.312,
+        "gap": 1.065
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.44,
+        "performance": 3.504,
+        "gap": 0.936
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.377,
+        "performance": 3.334,
+        "gap": 1.043
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.308,
+        "performance": 3.333,
+        "gap": 0.975
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.35,
+        "performance": 3.402,
+        "gap": 0.948
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.334,
+        "performance": 3.442,
+        "gap": 0.892
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.271,
+        "performance": 2.995,
+        "gap": 1.276
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.461,
+        "performance": 3.359,
+        "gap": 1.102
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.486,
+        "performance": 3.248,
+        "gap": 0.238
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.065,
+        "performance": 3.273,
+        "gap": 0.792
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.283,
+        "performance": 3.221,
+        "gap": 1.061
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.209,
+        "performance": 3.161,
+        "gap": 1.048
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.141,
+        "performance": 3.12,
+        "gap": 1.021
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.143,
+        "performance": 3.107,
+        "gap": 1.036
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.198,
+        "performance": 2.882,
+        "gap": 1.316
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.112,
+        "performance": 2.873,
+        "gap": 1.238
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.2,
+        "performance": 2.885,
+        "gap": 1.316
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.009,
+        "performance": 2.786,
+        "gap": 1.222
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.23,
+        "performance": 2.969,
+        "gap": 1.26
+      }
+    ],
+    "importance_mean": 4.326,
+    "performance_mean": 3.572,
+    "gap_mean": 0.754,
+    "top_importance": [
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.709,
+        "performance": 4.122,
+        "gap": 0.587
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.678,
+        "performance": 4.531,
+        "gap": 0.147
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.66,
+        "performance": 4.095,
+        "gap": 0.565
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.646,
+        "performance": 4.138,
+        "gap": 0.509
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.646,
+        "performance": 3.955,
+        "gap": 0.692
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.633,
+        "performance": 4.221,
+        "gap": 0.412
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.6,
+        "performance": 4.263,
+        "gap": 0.337
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.587,
+        "performance": 4.306,
+        "gap": 0.281
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.548,
+        "performance": 4.125,
+        "gap": 0.423
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.507,
+        "performance": 3.989,
+        "gap": 0.518
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.198,
+        "performance": 2.882,
+        "gap": 1.316
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.2,
+        "performance": 2.885,
+        "gap": 1.316
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.271,
+        "performance": 2.995,
+        "gap": 1.276
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.23,
+        "performance": 2.969,
+        "gap": 1.26
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.112,
+        "performance": 2.873,
+        "gap": 1.238
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.009,
+        "performance": 2.786,
+        "gap": 1.222
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.461,
+        "performance": 3.359,
+        "gap": 1.102
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.377,
+        "performance": 3.312,
+        "gap": 1.065
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.283,
+        "performance": 3.221,
+        "gap": 1.061
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.209,
+        "performance": 3.161,
+        "gap": 1.048
+      }
+    ]
+  },
+  "중등 음악과/미술과/예술계열 선택과목/체육과/체육계열 선택과목": {
+    "group_name": "중등 음악과/미술과/예술계열 선택과목/체육과/체육계열 선택과목",
+    "n": 129,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.651,
+        "performance": 4.364,
+        "gap": 0.287
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.636,
+        "performance": 4.357,
+        "gap": 0.279
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.566,
+        "performance": 4.178,
+        "gap": 0.388
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.659,
+        "performance": 4.271,
+        "gap": 0.388
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.574,
+        "performance": 4.287,
+        "gap": 0.287
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.721,
+        "performance": 4.543,
+        "gap": 0.178
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.636,
+        "performance": 4.388,
+        "gap": 0.248
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.481,
+        "performance": 4.318,
+        "gap": 0.163
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.271,
+        "performance": 3.868,
+        "gap": 0.403
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.488,
+        "performance": 3.884,
+        "gap": 0.605
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.38,
+        "performance": 3.876,
+        "gap": 0.504
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.682,
+        "performance": 4.171,
+        "gap": 0.512
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.605,
+        "performance": 4.31,
+        "gap": 0.295
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.69,
+        "performance": 4.233,
+        "gap": 0.457
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.674,
+        "performance": 4.271,
+        "gap": 0.403
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.566,
+        "performance": 4.085,
+        "gap": 0.481
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.643,
+        "performance": 4.171,
+        "gap": 0.473
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.628,
+        "performance": 4.233,
+        "gap": 0.395
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.566,
+        "performance": 4.132,
+        "gap": 0.434
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.581,
+        "performance": 4.116,
+        "gap": 0.465
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.442,
+        "performance": 4.147,
+        "gap": 0.295
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.318,
+        "performance": 4.078,
+        "gap": 0.24
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.488,
+        "performance": 4.178,
+        "gap": 0.31
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.504,
+        "performance": 4.178,
+        "gap": 0.326
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.543,
+        "performance": 4.186,
+        "gap": 0.357
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.543,
+        "performance": 4.202,
+        "gap": 0.341
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.473,
+        "performance": 4.217,
+        "gap": 0.256
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.364,
+        "performance": 4.116,
+        "gap": 0.248
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.426,
+        "performance": 3.915,
+        "gap": 0.512
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.488,
+        "performance": 3.93,
+        "gap": 0.558
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.419,
+        "performance": 3.876,
+        "gap": 0.543
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.434,
+        "performance": 3.853,
+        "gap": 0.581
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.426,
+        "performance": 3.907,
+        "gap": 0.519
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.388,
+        "performance": 4.039,
+        "gap": 0.349
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.434,
+        "performance": 3.783,
+        "gap": 0.651
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.473,
+        "performance": 3.876,
+        "gap": 0.597
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 4.031,
+        "performance": 3.744,
+        "gap": 0.287
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.326,
+        "performance": 3.845,
+        "gap": 0.481
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.279,
+        "performance": 3.651,
+        "gap": 0.628
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.403,
+        "performance": 3.829,
+        "gap": 0.574
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.38,
+        "performance": 3.829,
+        "gap": 0.55
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.38,
+        "performance": 3.767,
+        "gap": 0.612
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.31,
+        "performance": 3.643,
+        "gap": 0.667
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.233,
+        "performance": 3.612,
+        "gap": 0.62
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.256,
+        "performance": 3.605,
+        "gap": 0.651
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.225,
+        "performance": 3.566,
+        "gap": 0.659
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.264,
+        "performance": 3.667,
+        "gap": 0.597
+      }
+    ],
+    "importance_mean": 4.467,
+    "performance_mean": 4.028,
+    "gap_mean": 0.439,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.721,
+        "performance": 4.543,
+        "gap": 0.178
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.69,
+        "performance": 4.233,
+        "gap": 0.457
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.682,
+        "performance": 4.171,
+        "gap": 0.512
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.674,
+        "performance": 4.271,
+        "gap": 0.403
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.659,
+        "performance": 4.271,
+        "gap": 0.388
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.651,
+        "performance": 4.364,
+        "gap": 0.287
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.643,
+        "performance": 4.171,
+        "gap": 0.473
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.636,
+        "performance": 4.357,
+        "gap": 0.279
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.636,
+        "performance": 4.388,
+        "gap": 0.248
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.628,
+        "performance": 4.233,
+        "gap": 0.395
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.31,
+        "performance": 3.643,
+        "gap": 0.667
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.225,
+        "performance": 3.566,
+        "gap": 0.659
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.434,
+        "performance": 3.783,
+        "gap": 0.651
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.256,
+        "performance": 3.605,
+        "gap": 0.651
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.279,
+        "performance": 3.651,
+        "gap": 0.628
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.233,
+        "performance": 3.612,
+        "gap": 0.62
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.38,
+        "performance": 3.767,
+        "gap": 0.612
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.488,
+        "performance": 3.884,
+        "gap": 0.605
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.473,
+        "performance": 3.876,
+        "gap": 0.597
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.264,
+        "performance": 3.667,
+        "gap": 0.597
+      }
+    ]
+  },
+  "중등 사회과/역사과/도덕과": {
+    "group_name": "중등 사회과/역사과/도덕과",
+    "n": 293,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.519,
+        "performance": 4.229,
+        "gap": 0.29
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.642,
+        "performance": 4.184,
+        "gap": 0.457
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.526,
+        "performance": 4.034,
+        "gap": 0.491
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.652,
+        "performance": 4.212,
+        "gap": 0.44
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.515,
+        "performance": 4.263,
+        "gap": 0.253
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.648,
+        "performance": 4.461,
+        "gap": 0.188
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.59,
+        "performance": 4.259,
+        "gap": 0.331
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.532,
+        "performance": 4.249,
+        "gap": 0.283
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.215,
+        "performance": 3.754,
+        "gap": 0.461
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.3,
+        "performance": 3.788,
+        "gap": 0.512
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.28,
+        "performance": 3.744,
+        "gap": 0.536
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.57,
+        "performance": 4.225,
+        "gap": 0.345
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.594,
+        "performance": 4.399,
+        "gap": 0.195
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.635,
+        "performance": 4.29,
+        "gap": 0.345
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.686,
+        "performance": 4.143,
+        "gap": 0.543
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.433,
+        "performance": 4.048,
+        "gap": 0.386
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.628,
+        "performance": 4.082,
+        "gap": 0.546
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.474,
+        "performance": 3.983,
+        "gap": 0.491
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.505,
+        "performance": 3.973,
+        "gap": 0.532
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.413,
+        "performance": 3.952,
+        "gap": 0.461
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.287,
+        "performance": 3.976,
+        "gap": 0.311
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.13,
+        "performance": 3.853,
+        "gap": 0.276
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.386,
+        "performance": 4.034,
+        "gap": 0.352
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.382,
+        "performance": 4.048,
+        "gap": 0.334
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.386,
+        "performance": 4.041,
+        "gap": 0.345
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.328,
+        "performance": 3.959,
+        "gap": 0.369
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.324,
+        "performance": 3.99,
+        "gap": 0.334
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.29,
+        "performance": 3.939,
+        "gap": 0.352
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.29,
+        "performance": 3.778,
+        "gap": 0.512
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.331,
+        "performance": 3.877,
+        "gap": 0.454
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.338,
+        "performance": 3.87,
+        "gap": 0.468
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.215,
+        "performance": 3.788,
+        "gap": 0.427
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.3,
+        "performance": 3.853,
+        "gap": 0.447
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.334,
+        "performance": 3.877,
+        "gap": 0.457
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.334,
+        "performance": 3.666,
+        "gap": 0.669
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.437,
+        "performance": 3.809,
+        "gap": 0.628
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.843,
+        "performance": 3.481,
+        "gap": 0.362
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.317,
+        "performance": 3.645,
+        "gap": 0.672
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.15,
+        "performance": 3.526,
+        "gap": 0.625
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.14,
+        "performance": 3.614,
+        "gap": 0.526
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.133,
+        "performance": 3.608,
+        "gap": 0.526
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.14,
+        "performance": 3.597,
+        "gap": 0.543
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.16,
+        "performance": 3.457,
+        "gap": 0.703
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.055,
+        "performance": 3.461,
+        "gap": 0.594
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.099,
+        "performance": 3.488,
+        "gap": 0.611
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.017,
+        "performance": 3.42,
+        "gap": 0.597
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.205,
+        "performance": 3.57,
+        "gap": 0.635
+      }
+    ],
+    "importance_mean": 4.355,
+    "performance_mean": 3.904,
+    "gap_mean": 0.451,
+    "top_importance": [
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.686,
+        "performance": 4.143,
+        "gap": 0.543
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.652,
+        "performance": 4.212,
+        "gap": 0.44
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.648,
+        "performance": 4.461,
+        "gap": 0.188
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.642,
+        "performance": 4.184,
+        "gap": 0.457
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.635,
+        "performance": 4.29,
+        "gap": 0.345
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.628,
+        "performance": 4.082,
+        "gap": 0.546
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.594,
+        "performance": 4.399,
+        "gap": 0.195
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.59,
+        "performance": 4.259,
+        "gap": 0.331
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.57,
+        "performance": 4.225,
+        "gap": 0.345
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.532,
+        "performance": 4.249,
+        "gap": 0.283
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.16,
+        "performance": 3.457,
+        "gap": 0.703
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.317,
+        "performance": 3.645,
+        "gap": 0.672
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.334,
+        "performance": 3.666,
+        "gap": 0.669
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.205,
+        "performance": 3.57,
+        "gap": 0.635
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.437,
+        "performance": 3.809,
+        "gap": 0.628
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.15,
+        "performance": 3.526,
+        "gap": 0.625
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.099,
+        "performance": 3.488,
+        "gap": 0.611
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.017,
+        "performance": 3.42,
+        "gap": 0.597
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.055,
+        "performance": 3.461,
+        "gap": 0.594
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.628,
+        "performance": 4.082,
+        "gap": 0.546
+      }
+    ]
+  },
+  "중등 기술·가정/정보과": {
+    "group_name": "중등 기술·가정/정보과",
+    "n": 82,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.561,
+        "performance": 4.268,
+        "gap": 0.293
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.585,
+        "performance": 4.256,
+        "gap": 0.329
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.5,
+        "performance": 4.122,
+        "gap": 0.378
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.22,
+        "gap": 0.329
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.183,
+        "gap": 0.366
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.671,
+        "performance": 4.439,
+        "gap": 0.232
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.341,
+        "gap": 0.207
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.329,
+        "performance": 4.134,
+        "gap": 0.195
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.073,
+        "performance": 3.646,
+        "gap": 0.427
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.244,
+        "performance": 3.659,
+        "gap": 0.585
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.28,
+        "performance": 3.646,
+        "gap": 0.634
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.512,
+        "performance": 4.146,
+        "gap": 0.366
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.512,
+        "performance": 4.171,
+        "gap": 0.341
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.622,
+        "performance": 4.11,
+        "gap": 0.512
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.537,
+        "performance": 4.232,
+        "gap": 0.305
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.366,
+        "performance": 3.878,
+        "gap": 0.488
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.5,
+        "performance": 4.049,
+        "gap": 0.451
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.341,
+        "performance": 3.939,
+        "gap": 0.402
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.329,
+        "performance": 3.915,
+        "gap": 0.415
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.463,
+        "performance": 4.049,
+        "gap": 0.415
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.402,
+        "performance": 4.085,
+        "gap": 0.317
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.22,
+        "performance": 3.927,
+        "gap": 0.293
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.415,
+        "performance": 4.061,
+        "gap": 0.354
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.451,
+        "performance": 4.098,
+        "gap": 0.354
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.415,
+        "performance": 4.037,
+        "gap": 0.378
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.378,
+        "performance": 4.073,
+        "gap": 0.305
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.268,
+        "performance": 3.89,
+        "gap": 0.378
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.22,
+        "performance": 3.927,
+        "gap": 0.293
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.378,
+        "performance": 3.732,
+        "gap": 0.646
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.28,
+        "performance": 3.732,
+        "gap": 0.549
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.28,
+        "performance": 3.768,
+        "gap": 0.512
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.134,
+        "performance": 3.707,
+        "gap": 0.427
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.256,
+        "performance": 3.756,
+        "gap": 0.5
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.28,
+        "performance": 3.805,
+        "gap": 0.476
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.317,
+        "performance": 3.463,
+        "gap": 0.854
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.305,
+        "performance": 3.659,
+        "gap": 0.646
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.72,
+        "performance": 3.561,
+        "gap": 0.159
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.232,
+        "performance": 3.573,
+        "gap": 0.659
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.11,
+        "performance": 3.451,
+        "gap": 0.659
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.244,
+        "performance": 3.537,
+        "gap": 0.707
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.183,
+        "performance": 3.573,
+        "gap": 0.61
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.171,
+        "performance": 3.61,
+        "gap": 0.561
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.256,
+        "performance": 3.5,
+        "gap": 0.756
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.232,
+        "performance": 3.488,
+        "gap": 0.744
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.146,
+        "performance": 3.476,
+        "gap": 0.671
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.963,
+        "performance": 3.402,
+        "gap": 0.561
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.159,
+        "performance": 3.354,
+        "gap": 0.805
+      }
+    ],
+    "importance_mean": 4.33,
+    "performance_mean": 3.865,
+    "gap_mean": 0.465,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.671,
+        "performance": 4.439,
+        "gap": 0.232
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.622,
+        "performance": 4.11,
+        "gap": 0.512
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.585,
+        "performance": 4.256,
+        "gap": 0.329
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.561,
+        "performance": 4.268,
+        "gap": 0.293
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.22,
+        "gap": 0.329
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.183,
+        "gap": 0.366
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.549,
+        "performance": 4.341,
+        "gap": 0.207
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.537,
+        "performance": 4.232,
+        "gap": 0.305
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.512,
+        "performance": 4.146,
+        "gap": 0.366
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.512,
+        "performance": 4.171,
+        "gap": 0.341
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.317,
+        "performance": 3.463,
+        "gap": 0.854
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.159,
+        "performance": 3.354,
+        "gap": 0.805
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.256,
+        "performance": 3.5,
+        "gap": 0.756
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.232,
+        "performance": 3.488,
+        "gap": 0.744
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.244,
+        "performance": 3.537,
+        "gap": 0.707
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.146,
+        "performance": 3.476,
+        "gap": 0.671
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.232,
+        "performance": 3.573,
+        "gap": 0.659
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.11,
+        "performance": 3.451,
+        "gap": 0.659
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.378,
+        "performance": 3.732,
+        "gap": 0.646
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.305,
+        "performance": 3.659,
+        "gap": 0.646
+      }
+    ]
+  },
+  "중등 수학과/과학과/과학계열 선택과목": {
+    "group_name": "중등 수학과/과학과/과학계열 선택과목",
+    "n": 228,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.513,
+        "performance": 4.189,
+        "gap": 0.325
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.535,
+        "performance": 4.083,
+        "gap": 0.452
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.461,
+        "performance": 4.026,
+        "gap": 0.434
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.465,
+        "performance": 4.075,
+        "gap": 0.39
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.395,
+        "performance": 4.088,
+        "gap": 0.307
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.561,
+        "performance": 4.307,
+        "gap": 0.254
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.395,
+        "performance": 4.127,
+        "gap": 0.268
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.364,
+        "performance": 4.184,
+        "gap": 0.18
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.215,
+        "performance": 3.789,
+        "gap": 0.425
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.36,
+        "performance": 3.811,
+        "gap": 0.548
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.276,
+        "performance": 3.763,
+        "gap": 0.513
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.518,
+        "performance": 4.184,
+        "gap": 0.333
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.518,
+        "performance": 4.25,
+        "gap": 0.268
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.548,
+        "performance": 4.219,
+        "gap": 0.329
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.553,
+        "performance": 4.11,
+        "gap": 0.443
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.373,
+        "performance": 3.961,
+        "gap": 0.412
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.526,
+        "performance": 4.083,
+        "gap": 0.443
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.395,
+        "performance": 3.987,
+        "gap": 0.408
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.474,
+        "performance": 3.904,
+        "gap": 0.57
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.386,
+        "performance": 3.943,
+        "gap": 0.443
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.303,
+        "performance": 3.947,
+        "gap": 0.355
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.118,
+        "performance": 3.82,
+        "gap": 0.298
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.289,
+        "performance": 3.934,
+        "gap": 0.355
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.333,
+        "performance": 4.022,
+        "gap": 0.311
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.333,
+        "performance": 3.982,
+        "gap": 0.351
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.303,
+        "performance": 3.921,
+        "gap": 0.382
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.202,
+        "performance": 3.939,
+        "gap": 0.263
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.206,
+        "performance": 3.868,
+        "gap": 0.338
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.154,
+        "performance": 3.741,
+        "gap": 0.412
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.241,
+        "performance": 3.794,
+        "gap": 0.447
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.219,
+        "performance": 3.737,
+        "gap": 0.482
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.197,
+        "performance": 3.754,
+        "gap": 0.443
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.202,
+        "performance": 3.794,
+        "gap": 0.408
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.224,
+        "performance": 3.789,
+        "gap": 0.434
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.25,
+        "performance": 3.724,
+        "gap": 0.526
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.237,
+        "performance": 3.763,
+        "gap": 0.474
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.807,
+        "performance": 3.623,
+        "gap": 0.184
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.219,
+        "performance": 3.64,
+        "gap": 0.579
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.114,
+        "performance": 3.496,
+        "gap": 0.618
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.167,
+        "performance": 3.684,
+        "gap": 0.482
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.175,
+        "performance": 3.667,
+        "gap": 0.509
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.158,
+        "performance": 3.645,
+        "gap": 0.513
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.184,
+        "performance": 3.566,
+        "gap": 0.618
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.101,
+        "performance": 3.57,
+        "gap": 0.531
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.127,
+        "performance": 3.57,
+        "gap": 0.557
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.066,
+        "performance": 3.535,
+        "gap": 0.531
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.175,
+        "performance": 3.601,
+        "gap": 0.575
+      }
+    ],
+    "importance_mean": 4.296,
+    "performance_mean": 3.877,
+    "gap_mean": 0.42,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.561,
+        "performance": 4.307,
+        "gap": 0.254
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.553,
+        "performance": 4.11,
+        "gap": 0.443
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.548,
+        "performance": 4.219,
+        "gap": 0.329
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.535,
+        "performance": 4.083,
+        "gap": 0.452
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.526,
+        "performance": 4.083,
+        "gap": 0.443
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.518,
+        "performance": 4.184,
+        "gap": 0.333
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.518,
+        "performance": 4.25,
+        "gap": 0.268
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.513,
+        "performance": 4.189,
+        "gap": 0.325
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.474,
+        "performance": 3.904,
+        "gap": 0.57
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.465,
+        "performance": 4.075,
+        "gap": 0.39
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.114,
+        "performance": 3.496,
+        "gap": 0.618
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.184,
+        "performance": 3.566,
+        "gap": 0.618
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.219,
+        "performance": 3.64,
+        "gap": 0.579
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.175,
+        "performance": 3.601,
+        "gap": 0.575
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.474,
+        "performance": 3.904,
+        "gap": 0.57
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.127,
+        "performance": 3.57,
+        "gap": 0.557
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.36,
+        "performance": 3.811,
+        "gap": 0.548
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.101,
+        "performance": 3.57,
+        "gap": 0.531
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.066,
+        "performance": 3.535,
+        "gap": 0.531
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.25,
+        "performance": 3.724,
+        "gap": 0.526
+      }
+    ]
+  },
+  "중등 전문교과": {
+    "group_name": "중등 전문교과",
+    "n": 80,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.45,
+        "gap": 0.15
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.362,
+        "gap": 0.237
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.525,
+        "performance": 4.25,
+        "gap": 0.275
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.412,
+        "gap": 0.188
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.525,
+        "performance": 4.362,
+        "gap": 0.163
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.7,
+        "performance": 4.6,
+        "gap": 0.1
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.612,
+        "performance": 4.45,
+        "gap": 0.162
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.537,
+        "performance": 4.388,
+        "gap": 0.15
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 4.237,
+        "performance": 3.862,
+        "gap": 0.375
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.513,
+        "performance": 3.925,
+        "gap": 0.588
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.375,
+        "performance": 3.9,
+        "gap": 0.475
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.55,
+        "performance": 4.3,
+        "gap": 0.25
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.562,
+        "performance": 4.513,
+        "gap": 0.05
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.612,
+        "performance": 4.425,
+        "gap": 0.188
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.575,
+        "performance": 4.362,
+        "gap": 0.213
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.463,
+        "performance": 4.125,
+        "gap": 0.338
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.588,
+        "performance": 4.225,
+        "gap": 0.363
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.4,
+        "performance": 4.263,
+        "gap": 0.138
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.525,
+        "performance": 4.162,
+        "gap": 0.363
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.425,
+        "performance": 4.1,
+        "gap": 0.325
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.438,
+        "performance": 4.213,
+        "gap": 0.225
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.325,
+        "performance": 4.1,
+        "gap": 0.225
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.463,
+        "performance": 4.263,
+        "gap": 0.2
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.475,
+        "performance": 4.3,
+        "gap": 0.175
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.487,
+        "performance": 4.225,
+        "gap": 0.263
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.412,
+        "performance": 4.2,
+        "gap": 0.212
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.388,
+        "performance": 4.188,
+        "gap": 0.2
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.463,
+        "performance": 4.162,
+        "gap": 0.3
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.438,
+        "performance": 4.088,
+        "gap": 0.35
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.513,
+        "performance": 4.2,
+        "gap": 0.312
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.438,
+        "performance": 4.15,
+        "gap": 0.287
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.425,
+        "performance": 4.213,
+        "gap": 0.212
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.487,
+        "performance": 4.2,
+        "gap": 0.287
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.35,
+        "performance": 3.975,
+        "gap": 0.375
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.338,
+        "performance": 3.825,
+        "gap": 0.513
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.362,
+        "performance": 3.938,
+        "gap": 0.425
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.75,
+        "performance": 3.462,
+        "gap": 0.288
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.312,
+        "performance": 3.913,
+        "gap": 0.4
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.3,
+        "performance": 3.925,
+        "gap": 0.375
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.375,
+        "performance": 3.987,
+        "gap": 0.388
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.35,
+        "performance": 4.013,
+        "gap": 0.337
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.312,
+        "performance": 3.95,
+        "gap": 0.362
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.4,
+        "performance": 3.938,
+        "gap": 0.463
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.35,
+        "performance": 3.95,
+        "gap": 0.4
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.338,
+        "performance": 3.95,
+        "gap": 0.388
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.325,
+        "performance": 3.837,
+        "gap": 0.488
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.35,
+        "performance": 3.938,
+        "gap": 0.412
+      }
+    ],
+    "importance_mean": 4.436,
+    "performance_mean": 4.139,
+    "gap_mean": 0.297,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.7,
+        "performance": 4.6,
+        "gap": 0.1
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.612,
+        "performance": 4.45,
+        "gap": 0.162
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.612,
+        "performance": 4.425,
+        "gap": 0.188
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.45,
+        "gap": 0.15
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.362,
+        "gap": 0.237
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.6,
+        "performance": 4.412,
+        "gap": 0.188
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.588,
+        "performance": 4.225,
+        "gap": 0.363
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.575,
+        "performance": 4.362,
+        "gap": 0.213
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.562,
+        "performance": 4.513,
+        "gap": 0.05
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.55,
+        "performance": 4.3,
+        "gap": 0.25
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.513,
+        "performance": 3.925,
+        "gap": 0.588
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.338,
+        "performance": 3.825,
+        "gap": 0.513
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 4.325,
+        "performance": 3.837,
+        "gap": 0.488
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.375,
+        "performance": 3.9,
+        "gap": 0.475
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.4,
+        "performance": 3.938,
+        "gap": 0.463
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.362,
+        "performance": 3.938,
+        "gap": 0.425
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.35,
+        "performance": 3.938,
+        "gap": 0.412
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.312,
+        "performance": 3.913,
+        "gap": 0.4
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 4.35,
+        "performance": 3.95,
+        "gap": 0.4
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.375,
+        "performance": 3.987,
+        "gap": 0.388
+      }
+    ]
+  },
+  "전체": {
+    "group_name": "전체",
+    "n": 5095,
+    "items": [
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.571,
+        "performance": 4.195,
+        "gap": 0.376
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.637,
+        "performance": 4.151,
+        "gap": 0.486
+      },
+      {
+        "name": "맞춤형 서비스",
+        "full_name": "서비스 품질 - 맞춤형 서비스",
+        "category": "서비스 품질",
+        "importance": 4.468,
+        "performance": 3.97,
+        "gap": 0.498
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.569,
+        "performance": 4.116,
+        "gap": 0.454
+      },
+      {
+        "name": "신속한 응답",
+        "full_name": "서비스 품질 - 신속한 응답",
+        "category": "서비스 품질",
+        "importance": 4.491,
+        "performance": 4.155,
+        "gap": 0.336
+      },
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.644,
+        "performance": 4.427,
+        "gap": 0.217
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.565,
+        "performance": 4.189,
+        "gap": 0.376
+      },
+      {
+        "name": "인쇄자료",
+        "full_name": "정보접근 - 인쇄자료",
+        "category": "정보 접근",
+        "importance": 4.469,
+        "performance": 4.23,
+        "gap": 0.239
+      },
+      {
+        "name": "전자자원",
+        "full_name": "정보접근 - 전자자원",
+        "category": "정보 접근",
+        "importance": 3.968,
+        "performance": 3.442,
+        "gap": 0.526
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.307,
+        "performance": 3.616,
+        "gap": 0.691
+      },
+      {
+        "name": "외부 접근",
+        "full_name": "정보접근 - 외부 접근",
+        "category": "정보 접근",
+        "importance": 4.113,
+        "performance": 3.524,
+        "gap": 0.589
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.513,
+        "performance": 4.059,
+        "gap": 0.454
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.565,
+        "performance": 4.226,
+        "gap": 0.339
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.617,
+        "performance": 4.134,
+        "gap": 0.483
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.632,
+        "performance": 4.13,
+        "gap": 0.502
+      },
+      {
+        "name": "개별학습 공간",
+        "full_name": "공간 - 개별학습 공간",
+        "category": "공간",
+        "importance": 4.305,
+        "performance": 3.784,
+        "gap": 0.521
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.586,
+        "performance": 4.005,
+        "gap": 0.581
+      },
+      {
+        "name": "휴식처",
+        "full_name": "공간 - 휴식처",
+        "category": "공간",
+        "importance": 4.386,
+        "performance": 3.923,
+        "gap": 0.463
+      },
+      {
+        "name": "협업 공간",
+        "full_name": "공간 - 협업 공간",
+        "category": "공간",
+        "importance": 4.425,
+        "performance": 3.847,
+        "gap": 0.578
+      },
+      {
+        "name": "주의집중",
+        "full_name": "수업전략 - 주의집중",
+        "category": "수업 전략",
+        "importance": 4.387,
+        "performance": 3.928,
+        "gap": 0.459
+      },
+      {
+        "name": "학습목표제시",
+        "full_name": "수업전략 - 학습목표제시",
+        "category": "수업 전략",
+        "importance": 4.334,
+        "performance": 3.981,
+        "gap": 0.353
+      },
+      {
+        "name": "선수학습회상",
+        "full_name": "수업전략 - 선수학습회상",
+        "category": "수업 전략",
+        "importance": 4.093,
+        "performance": 3.817,
+        "gap": 0.275
+      },
+      {
+        "name": "학습내용 제시",
+        "full_name": "수업전략 - 학습내용 제시",
+        "category": "수업 전략",
+        "importance": 4.365,
+        "performance": 4.01,
+        "gap": 0.355
+      },
+      {
+        "name": "학습안내",
+        "full_name": "수업전략 - 학습안내",
+        "category": "수업 전략",
+        "importance": 4.372,
+        "performance": 4.046,
+        "gap": 0.326
+      },
+      {
+        "name": "수행유도",
+        "full_name": "수업전략 - 수행유도",
+        "category": "수업 전략",
+        "importance": 4.39,
+        "performance": 4.035,
+        "gap": 0.355
+      },
+      {
+        "name": "피드백 제공",
+        "full_name": "수업전략 - 피드백 제공",
+        "category": "수업 전략",
+        "importance": 4.364,
+        "performance": 3.991,
+        "gap": 0.374
+      },
+      {
+        "name": "수행평가",
+        "full_name": "수업전략 - 수행평가",
+        "category": "수업 전략",
+        "importance": 4.216,
+        "performance": 3.894,
+        "gap": 0.321
+      },
+      {
+        "name": "파지와 전이",
+        "full_name": "수업전략 - 파지와 전이",
+        "category": "수업 전략",
+        "importance": 4.251,
+        "performance": 3.895,
+        "gap": 0.356
+      },
+      {
+        "name": "매체문화와 정보생활",
+        "full_name": "교육내용 - 매체문화와 정보생활",
+        "category": "교육 내용",
+        "importance": 4.301,
+        "performance": 3.68,
+        "gap": 0.621
+      },
+      {
+        "name": "정보활용과 정보탐색",
+        "full_name": "교육내용 - 정보활용과 정보탐색",
+        "category": "교육 내용",
+        "importance": 4.324,
+        "performance": 3.751,
+        "gap": 0.573
+      },
+      {
+        "name": "비판적 이해",
+        "full_name": "교육내용 - 비판적 이해",
+        "category": "교육 내용",
+        "importance": 4.291,
+        "performance": 3.695,
+        "gap": 0.596
+      },
+      {
+        "name": "창의적 정보표현",
+        "full_name": "교육내용 - 창의적 정보표현",
+        "category": "교육 내용",
+        "importance": 4.214,
+        "performance": 3.664,
+        "gap": 0.55
+      },
+      {
+        "name": "협력과 참여",
+        "full_name": "교육내용 - 협력과 참여",
+        "category": "교육 내용",
+        "importance": 4.262,
+        "performance": 3.728,
+        "gap": 0.534
+      },
+      {
+        "name": "단일교과 연계",
+        "full_name": "수업유형 - 단일교과 연계",
+        "category": "수업 유형",
+        "importance": 4.327,
+        "performance": 3.86,
+        "gap": 0.467
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.345,
+        "performance": 3.615,
+        "gap": 0.731
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.435,
+        "performance": 3.788,
+        "gap": 0.647
+      },
+      {
+        "name": "일반교사 단독 활용",
+        "full_name": "수업유형 - 일반교사 단독 활용",
+        "category": "수업 유형",
+        "importance": 3.805,
+        "performance": 3.586,
+        "gap": 0.219
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.212,
+        "performance": 3.541,
+        "gap": 0.671
+      },
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.232,
+        "performance": 3.362,
+        "gap": 0.87
+      },
+      {
+        "name": "에듀테크(교수자-학습자)",
+        "full_name": "수업유형 - 에듀테크(교수자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.128,
+        "performance": 3.497,
+        "gap": 0.632
+      },
+      {
+        "name": "에듀테크(학습자-학습자)",
+        "full_name": "수업유형 - 에듀테크(학습자-학습자)",
+        "category": "수업 유형",
+        "importance": 4.097,
+        "performance": 3.482,
+        "gap": 0.615
+      },
+      {
+        "name": "에듀테크(학습자-콘텐츠)",
+        "full_name": "수업유형 - 에듀테크(학습자-콘텐츠)",
+        "category": "수업 유형",
+        "importance": 4.094,
+        "performance": 3.479,
+        "gap": 0.615
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.062,
+        "performance": 3.314,
+        "gap": 0.748
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.996,
+        "performance": 3.296,
+        "gap": 0.7
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.027,
+        "performance": 3.309,
+        "gap": 0.718
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.93,
+        "performance": 3.251,
+        "gap": 0.679
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.144,
+        "performance": 3.404,
+        "gap": 0.741
+      }
+    ],
+    "importance_mean": 4.316,
+    "performance_mean": 3.809,
+    "gap_mean": 0.507,
+    "top_importance": [
+      {
+        "name": "존중/배려",
+        "full_name": "서비스 품질 - 존중/배려",
+        "category": "서비스 품질",
+        "importance": 4.644,
+        "performance": 4.427,
+        "gap": 0.217
+      },
+      {
+        "name": "요구 이해",
+        "full_name": "서비스 품질 - 요구 이해",
+        "category": "서비스 품질",
+        "importance": 4.637,
+        "performance": 4.151,
+        "gap": 0.486
+      },
+      {
+        "name": "교수학습 공간",
+        "full_name": "공간 - 교수학습 공간",
+        "category": "공간",
+        "importance": 4.632,
+        "performance": 4.13,
+        "gap": 0.502
+      },
+      {
+        "name": "자율접근 지원",
+        "full_name": "정보접근 - 자율접근 지원",
+        "category": "정보 접근",
+        "importance": 4.617,
+        "performance": 4.134,
+        "gap": 0.483
+      },
+      {
+        "name": "매력적 공간",
+        "full_name": "공간 - 매력적 공간",
+        "category": "공간",
+        "importance": 4.586,
+        "performance": 4.005,
+        "gap": 0.581
+      },
+      {
+        "name": "신뢰감",
+        "full_name": "서비스 품질 - 신뢰감",
+        "category": "서비스 품질",
+        "importance": 4.571,
+        "performance": 4.195,
+        "gap": 0.376
+      },
+      {
+        "name": "적극적 도움",
+        "full_name": "서비스 품질 - 적극적 도움",
+        "category": "서비스 품질",
+        "importance": 4.569,
+        "performance": 4.116,
+        "gap": 0.454
+      },
+      {
+        "name": "지적 역량",
+        "full_name": "서비스 품질 - 지적 역량",
+        "category": "서비스 품질",
+        "importance": 4.565,
+        "performance": 4.189,
+        "gap": 0.376
+      },
+      {
+        "name": "소장위치 안내",
+        "full_name": "정보접근 - 소장위치 안내",
+        "category": "정보 접근",
+        "importance": 4.565,
+        "performance": 4.226,
+        "gap": 0.339
+      },
+      {
+        "name": "검색도구",
+        "full_name": "정보접근 - 검색도구",
+        "category": "정보 접근",
+        "importance": 4.513,
+        "performance": 4.059,
+        "gap": 0.454
+      }
+    ],
+    "top_gap": [
+      {
+        "name": "사서교사 주도 협력",
+        "full_name": "수업유형 - 사서교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.232,
+        "performance": 3.362,
+        "gap": 0.87
+      },
+      {
+        "name": "AI 상호작용",
+        "full_name": "AI리터러시 - AI 상호작용",
+        "category": "AI 리터러시",
+        "importance": 4.062,
+        "performance": 3.314,
+        "gap": 0.748
+      },
+      {
+        "name": "새 교육과정 연계",
+        "full_name": "AI리터러시 - 새 교육과정 연계",
+        "category": "AI 리터러시",
+        "importance": 4.144,
+        "performance": 3.404,
+        "gap": 0.741
+      },
+      {
+        "name": "융합교과 연계",
+        "full_name": "수업유형 - 융합교과 연계",
+        "category": "수업 유형",
+        "importance": 4.345,
+        "performance": 3.615,
+        "gap": 0.731
+      },
+      {
+        "name": "AI 관리",
+        "full_name": "AI리터러시 - AI 관리",
+        "category": "AI 리터러시",
+        "importance": 4.027,
+        "performance": 3.309,
+        "gap": 0.718
+      },
+      {
+        "name": "AI 활용 창조",
+        "full_name": "AI리터러시 - AI 활용 창조",
+        "category": "AI 리터러시",
+        "importance": 3.996,
+        "performance": 3.296,
+        "gap": 0.7
+      },
+      {
+        "name": "장비/시설",
+        "full_name": "정보접근 - 장비/시설",
+        "category": "정보 접근",
+        "importance": 4.307,
+        "performance": 3.616,
+        "gap": 0.691
+      },
+      {
+        "name": "AI 설계",
+        "full_name": "AI리터러시 - AI 설계",
+        "category": "AI 리터러시",
+        "importance": 3.93,
+        "performance": 3.251,
+        "gap": 0.679
+      },
+      {
+        "name": "일반교사 주도 협력",
+        "full_name": "수업유형 - 일반교사 주도 협력",
+        "category": "수업 유형",
+        "importance": 4.212,
+        "performance": 3.541,
+        "gap": 0.671
+      },
+      {
+        "name": "범교과 학습 연계",
+        "full_name": "수업유형 - 범교과 학습 연계",
+        "category": "수업 유형",
+        "importance": 4.435,
+        "performance": 3.788,
+        "gap": 0.647
+      }
+    ]
+  }
+}
