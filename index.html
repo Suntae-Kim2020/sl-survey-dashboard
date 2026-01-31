@@ -733,6 +733,89 @@
             border-radius: 10px;
             color: #721c24;
         }
+
+        /* 비밀번호 모달 */
+        .password-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 10000;
+            justify-content: center;
+            align-items: center;
+        }
+        .password-modal.show {
+            display: flex;
+        }
+        .password-modal-content {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 350px;
+            width: 90%;
+        }
+        .password-modal-content h3 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .password-modal-content p {
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+        }
+        .password-modal-content input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            text-align: center;
+            letter-spacing: 3px;
+            margin-bottom: 20px;
+        }
+        .password-modal-content input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .password-modal-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        .password-modal-buttons button {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn-cancel {
+            background: #e0e0e0;
+            color: #333;
+        }
+        .btn-cancel:hover {
+            background: #d0d0d0;
+        }
+        .btn-submit {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+        }
+        .btn-submit:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(102,126,234,0.4);
+        }
+        .password-error {
+            color: #dc3545;
+            font-size: 0.9em;
+            margin-top: 10px;
+            min-height: 20px;
+        }
     </style>
 </head>
 <body>
@@ -1991,6 +2074,54 @@
         return _k;
     }
 
+    // 비밀번호 모달 표시
+    function showPasswordModal() {
+        return new Promise((resolve) => {
+            const modal = document.getElementById('passwordModal');
+            const input = document.getElementById('passwordInput');
+            const submitBtn = document.getElementById('passwordSubmit');
+            const cancelBtn = document.getElementById('passwordCancel');
+            const errorMsg = document.getElementById('passwordError');
+
+            input.value = '';
+            errorMsg.textContent = '';
+            modal.classList.add('show');
+            input.focus();
+
+            function cleanup() {
+                modal.classList.remove('show');
+                submitBtn.removeEventListener('click', handleSubmit);
+                cancelBtn.removeEventListener('click', handleCancel);
+                input.removeEventListener('keypress', handleKeypress);
+            }
+
+            function handleSubmit() {
+                if (input.value === AI_PASSWORD) {
+                    cleanup();
+                    resolve(true);
+                } else {
+                    errorMsg.textContent = '암호가 올바르지 않습니다.';
+                    input.value = '';
+                    input.focus();
+                }
+            }
+
+            function handleCancel() {
+                cleanup();
+                resolve(false);
+            }
+
+            function handleKeypress(e) {
+                if (e.key === 'Enter') handleSubmit();
+                if (e.key === 'Escape') handleCancel();
+            }
+
+            submitBtn.addEventListener('click', handleSubmit);
+            cancelBtn.addEventListener('click', handleCancel);
+            input.addEventListener('keypress', handleKeypress);
+        });
+    }
+
     async function toggleAIAnalysis() {
         const btn = document.getElementById('aiAnalysisBtn');
         const resultDiv = document.getElementById('aiAnalysisResult');
@@ -2005,12 +2136,8 @@
 
         // 비밀번호 확인 (세션 중 한 번만)
         if (!aiAuthenticated) {
-            const inputPassword = prompt('AI 분석 기능을 사용하려면 암호를 입력하세요:');
-            if (inputPassword === null) {
-                return; // 취소 버튼
-            }
-            if (inputPassword !== AI_PASSWORD) {
-                alert('암호가 올바르지 않습니다.');
+            const authenticated = await showPasswordModal();
+            if (!authenticated) {
                 return;
             }
             aiAuthenticated = true;
@@ -2484,5 +2611,19 @@ ${tableData}
     // 초기화
     loadData();
     </script>
+
+    <!-- 비밀번호 입력 모달 -->
+    <div id="passwordModal" class="password-modal">
+        <div class="password-modal-content">
+            <h3>🔐 AI 분석 인증</h3>
+            <p>AI 분석 기능을 사용하려면 암호를 입력하세요.</p>
+            <input type="password" id="passwordInput" placeholder="암호 입력" autocomplete="off">
+            <div class="password-modal-buttons">
+                <button id="passwordCancel" class="btn-cancel">취소</button>
+                <button id="passwordSubmit" class="btn-submit">확인</button>
+            </div>
+            <p id="passwordError" class="password-error"></p>
+        </div>
+    </div>
 </body>
 </html>
