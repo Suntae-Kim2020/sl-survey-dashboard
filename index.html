@@ -2136,11 +2136,10 @@
             }
         });
         
-        // 기본값: 초등(전과목) 선택
-        selector.value = '초등(전과목)';
-        currentSubjectPage = '초등(전과목)';
-        document.getElementById('subjectContent').style.display = 'block';
-        updateSubjectPageAnalysis();
+        // 기본값: 선택 안함
+        selector.value = '';
+        currentSubjectPage = '';
+        document.getElementById('subjectContent').style.display = 'none';
     }
 
     function updateSubjectPageAnalysis() {
