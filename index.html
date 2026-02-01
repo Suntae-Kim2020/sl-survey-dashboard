@@ -2273,8 +2273,8 @@
 
     function populateOfficeCheckboxes() {
         const container = document.getElementById('officeCheckboxes');
-        const offices = Object.keys(officeData).filter(k => k !== '전체' && k !== 'ranking');
-        offices.sort((a, b) => officeData[b].n - officeData[a].n);
+        const officeOrder = ['서울', '부산', '대구', '인천', '광주', '대전', '울산', '세종', '경기', '강원', '충북', '충남', '전북', '전남', '경북', '경남', '제주'];
+        const offices = officeOrder.filter(o => officeData[o]);
         
         container.innerHTML = offices.map(o => `
             <div class="checkbox-item ${selectedOffices.includes(o) ? 'selected' : ''}" onclick="toggleOffice('${o}', this)">
@@ -2713,8 +2713,8 @@ ${tableData}
 
     function populateOfficeSelector() {
         const selector = document.getElementById('officeSelector');
-        const offices = Object.keys(officeData).filter(k => k !== '전체' && k !== 'ranking');
-        offices.sort((a, b) => officeData[b].n - officeData[a].n);
+        const officeOrder = ['서울', '부산', '대구', '인천', '광주', '대전', '울산', '세종', '경기', '강원', '충북', '충남', '전북', '전남', '경북', '경남', '제주'];
+        const offices = officeOrder.filter(o => officeData[o]);
         selector.innerHTML = '<option value="">-- 교육청을 선택하세요 --</option>' +
             offices.map(o => `<option value="${o}">${o} (${officeData[o].n}명)</option>`).join('');
         selector.addEventListener('change', function() {
